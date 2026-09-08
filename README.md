@@ -43,3 +43,7 @@ Busco oportunidades **100% remotas** em Engenharia de Software Sênior, Full Sta
 [LinkedIn — Gustavo Drager](https://www.linkedin.com/in/gustavodrager)
 
 Os estudos de caso apresentam minha atuação e decisões de engenharia. Os repositórios operacionais, seus históricos e os dados de clientes não são publicados neste portfólio.
+
+## Portfólio técnico completo
+
+[Explore os 17 projetos em 16 repositórios públicos](portfolio/README.md), com código sanitizado, arquitetura, dependências e testes disponíveis. Inclui as centrais de Identidade e de Notificações, projetos em desenvolvimento e os protótipos legados.
