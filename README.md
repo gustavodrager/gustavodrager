@@ -16,15 +16,11 @@ Conduzi o entendimento da dor do cliente, a análise dos processos, a prototipa�
 
 Tecnologias: C#/.NET, React/Next.js, TypeScript, Entity Framework Core e PostgreSQL.
 
-[Conheça o estudo de caso](https://github.com/gustavodrager/lavamais-crm-showcase)
-
 ### QuebraNunca App — concepção e engenharia de produto
 
 Concebi e desenvolvi uma plataforma web para a comunidade de futevôlei, com grupos, partidas, rankings e estatísticas. Minha atuação abrangeu definição do produto, arquitetura, frontend, backend e testes. O produto está em homologação e ajustes.
 
 Tecnologias: C#/.NET, React, JavaScript, Entity Framework Core e PostgreSQL.
-
-[Conheça o estudo de caso](https://github.com/gustavodrager/quebranunca-app-showcase)
 
 ### QuebraNunca CRM — operação e evolução contínua
 
@@ -42,8 +38,9 @@ Busco oportunidades **100% remotas** em Engenharia de Software Sênior, Full Sta
 
 [LinkedIn — Gustavo Drager](https://www.linkedin.com/in/gustavodrager)
 
-Os estudos de caso apresentam minha atuação e decisões de engenharia. Os repositórios operacionais, seus históricos e os dados de clientes não são publicados neste portfólio.
+Os projetos descritos apresentam minha atuação e decisões de engenharia. Os repositórios operacionais, seus históricos e os dados de clientes permanecem privados.
 
-## Portfólio técnico completo
+## Outros projetos
 
-[Explore os 17 projetos em 16 repositórios públicos](portfolio/README.md), com código sanitizado, arquitetura, dependências e testes disponíveis. Inclui as centrais de Identidade e de Notificações, projetos em desenvolvimento e os protótipos legados.
+[Resumo dos projetos e tecnologias](portfolio/README.md), incluindo as centrais de Identidade e de Notificações, projetos em desenvolvimento e protótipos legados.
+
