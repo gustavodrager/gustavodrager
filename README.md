@@ -32,6 +32,11 @@ Tecnologias: C#/.NET, React, TypeScript, Entity Framework Core e PostgreSQL. Có
 
 Utilizo IA como apoio à análise, ao desenvolvimento e à documentação, com revisão técnica e validação dos resultados. Distingo esse uso da implementação de funcionalidades com IA nos produtos, área em que continuo aprofundando meus conhecimentos.
 
+## Cursos livres
+
+- Alura: Metodologias Ágeis.
+- Udemy: Arquitetura de Software, Engenharia de Software e Gerenciamento de Projetos.
+
 ## Oportunidades e contato
 
 Busco oportunidades **100% remotas** em Engenharia de Software Sênior, Full Stack e Product Engineering. Também atuo em projetos de consultoria com escopo de entrega definido.
@@ -43,4 +48,3 @@ Os projetos descritos apresentam minha atuação e decisões de engenharia. Os r
 ## Outros projetos
 
 [Resumo dos projetos e tecnologias](portfolio/README.md), incluindo as centrais de Identidade e de Notificações, projetos em desenvolvimento e protótipos legados.
-
