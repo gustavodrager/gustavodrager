@@ -8,8 +8,6 @@ Minha principal especialidade é C#/.NET. Atuo também no frontend com React ou 
 
 Nos projetos que conduzo, conecto a necessidade do negócio à entrega: levantamento, análise de processos, prototipação, definição da solução, arquitetura, desenvolvimento full stack, testes e implantação.
 
-## Desenvolvimento assistido por IA
-
 Utilizo IA como apoio à análise, ao desenvolvimento e à documentação, com revisão técnica e validação dos resultados. Distingo esse uso da implementação de funcionalidades com IA nos produtos, área em que continuo aprofundando meus conhecimentos.
 
 ## Oportunidades e contato
